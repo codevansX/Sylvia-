@@ -1,0 +1,16 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    background: linear-gradient(to bottom, pink, red);
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.image-container {
+    margin-top: 20px;
+}
